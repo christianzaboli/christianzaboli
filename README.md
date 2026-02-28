@@ -3,7 +3,7 @@
 
 ---
 
-## /Chi Sono
+## Chi Sono
 
 Costruisco applicazioni web con struttura solida, design curato e logica pulita.
 
@@ -19,7 +19,7 @@ Attualmente specializzato in:
 
 ---
 
-## /Mindset
+## Mindset
 
 ✔ Codice leggibile > codice “furbo”  
 ✔ Performance prima dell’overengineering  
@@ -28,26 +28,26 @@ Attualmente specializzato in:
 
 ---
 
-## /Stack Principale
+## Stack Principale
 
 React • TypeScript • Node.js • Express • MySQL • REST • Git
 
 ---
 
-## /Progetti Principali
+## Progetti Principali
 
 🔹 Streaming Comparator – SPA completa con filtri dinamici
 🔹 Space Domiciles – E-commerce simulato con backend custom
 
 ---
 
-## /GitHub Activity
+## GitHub Activity
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=TUOUSERNAME&theme=tokyonight&show_icons=true)
 
 ---
 
-## 📬 Contatti
+## Contatti
 
 LinkedIn → [www.linkedin.com/in/christianzabolivedovi/]  
 Email → [zabolichristian@gmail.com]
