@@ -41,12 +41,6 @@ React • TypeScript • Node.js • Express • MySQL • REST • Git
 
 ---
 
-## GitHub Activity
-
-![Stats](https://github-readme-stats.vercel.app/api?username=TUOUSERNAME&theme=tokyonight&show_icons=true)
-
----
-
 ## Contatti
 
 LinkedIn → [www.linkedin.com/in/christianzabolivedovi/]  
