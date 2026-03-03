@@ -8,7 +8,7 @@ precisione industriale applicata al codice.
 
 ## Stack Principale
 
-React • TypeScript • Node.js • Express • MySQL • REST • Git
+React • TypeScript • Node.js • Express • MySQL
 
 ## Contatti
 
