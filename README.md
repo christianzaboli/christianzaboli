@@ -1,8 +1,7 @@
-<h1>Ciao !</h1>
+<h1>Ciao!</h1>
 
 Mi chiamo Christian ma puoi tranquillamente chiamarmi Osazeh. <em>(come fanno tutti)</em>
 
-Costruisco applicazioni web con struttura solida, design curato e logica pulita.
 Background tecnico in grafica pubblicitaria e lavorazione plexiglass:
 precisione industriale applicata al codice.
 
@@ -12,5 +11,6 @@ React • TypeScript • Node.js • Express • MySQL
 
 ## Contatti
 
-LinkedIn → [www.linkedin.com/in/christianzabolivedovi/]  
-Email → [zabolichristian@gmail.com]
+<a href="https://www.linkedin.com/in/christianzabolivedovi" target="_blank" rel="noreferrer">LinkedIn</a>
+<a href="mailto:zabolichristian@gmail.com">Send email</a>
+Lets talk on <a href="discord.com/users/228280028541091841" target="_blank" rel="noreferrer">Discord</a>!
